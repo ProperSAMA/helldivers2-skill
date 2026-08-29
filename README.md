@@ -1,5 +1,7 @@
 # Helldivers 2 Skill for OpenClaw
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 An [OpenClaw](https://github.com/openclaw/openclaw) skill that queries live [Helldivers 2](https://www.helldivers2.com/) galactic war data via the community API at [api.helldivers2.dev](https://api.helldivers2.dev).
 
 ## What It Does
